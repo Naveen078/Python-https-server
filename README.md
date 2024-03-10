@@ -10,6 +10,3 @@ Run server:
 $  python3 https.py
 
 Server will start at port 8002
-
-$ python3 https.py
-Server Started. Listening on https://0.0.0.0:8002/
